@@ -8,4 +8,5 @@ echo "Hello My name is Sharif";
 
 $_myName = 'Sharif';
 $value = 10.5;
+// $1wrong; #wrong declaration
 echo $value;
